@@ -1,0 +1,137 @@
+[
+    {
+        "ver": "11",
+        "name": "Android11",
+        "api": "API level 30"
+    },
+	{
+        "ver": "10",
+        "name": "Android10",
+        "api": "API level 29"
+    },
+	{
+        "ver": "9",
+        "name": "Pie",
+        "api": "API level 28"
+    },
+	{
+        "ver": "8.1.0",
+        "name": "Oreo",
+        "api": "API level 27"
+    },
+	{
+        "ver": "8.0.0",
+        "name": "Oreo",
+        "api": "API level 26"
+    },
+	{
+        "ver": "7.1",
+        "name": "Nougat",
+        "api": "API level 25"
+    },
+	{
+        "ver": "7.0",
+        "name": "Nougat",
+        "api": "API level 24"
+    },
+	{
+        "ver": "6.0",
+        "name": "Marshmallow",
+        "api": "API level 23"
+    },
+	{
+        "ver": "5.1",
+        "name": "Lollipop",
+        "api": "API level 22"
+    },
+	{
+        "ver": "5.0",
+        "name": "Lollipop",
+        "api": "API level 21"
+    },
+	{
+        "ver": "4.4 - 4.4.4",
+        "name": "KitKat",
+        "api": "API level 19"
+    },
+	{
+        "ver": "4.3.x",
+        "name": "Jelly Bean",
+        "api": "API level 18"
+    },
+	{
+        "ver": "4.2.x",
+        "name": "Jelly Bean",
+        "api": "API level 17"
+    },
+	{
+        "ver": "4.1.x",
+        "name": "Jelly Bean",
+        "api": "API level 16"
+    },
+	{
+        "ver": "4.0.3 - 4.0.4",
+        "name": "Ice Cream Sandwich",
+        "api": "API level 15, NDK 8"
+    },
+	{
+        "ver": "4.0.1 - 4.0.2",
+        "name": "Ice Cream Sandwich",
+        "api": "API level 14, NDK 7"
+    },
+	{
+        "ver": "3.2.x",
+        "name": "Honeycomb",
+        "api": "API level 13"
+    },
+	{
+        "ver": "3.1",
+        "name": "Honeycomb",
+        "api": "API level 12, NDK 6"
+    },
+	{
+        "ver": "3.0",
+        "name": "Honeycomb",
+        "api": "API level 11"
+    },
+	{
+        "ver": "2.3.3 - 2.3.7",
+        "name": "Gingerbread",
+        "api": "API level 10"
+    },
+	{
+        "ver": "2.3 - 2.3.2",
+        "name": "Gingerbread",
+        "api": "API level 9, NDK 5"
+    },
+	{
+        "ver": "2.2.x",
+        "name": "Froyo",
+        "api": "API level 8, NDK 4"
+    },
+	{
+        "ver": "2.1",
+        "name": "Eclair",
+        "api": "API level 7, NDK 3"
+    },
+	{
+        "ver": "2.0.1",
+        "name": "Eclair",
+        "api": "API level 6"
+    },
+	{
+        "ver": "2.0",
+        "name": "Eclair",
+        "api": "API level 5"
+    },
+	{
+        "ver": "1.6",
+        "name": "Donut",
+        "api": "API level 4, NDK 2"
+    },
+	{
+        "ver": "1.5",
+        "name": "Cupcake",
+        "api": "API level 3, NDK 1"
+    }
+]
